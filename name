@@ -1,0 +1,3 @@
+print("hello hacker we are secured")
+input=name("what is your name")
+print("hello,name")
